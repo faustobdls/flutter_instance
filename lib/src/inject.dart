@@ -1,4 +1,5 @@
-import 'package:instance/src/instance.dart';
+
+import 'package:instance_instance/instance_instance.dart';
 
 import 'bind.dart';
 

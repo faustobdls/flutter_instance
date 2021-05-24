@@ -1,7 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:instance/src/exception.dart';
-import 'package:instance/src/inject.dart';
-import 'package:instance/src/instance.dart';
+import 'package:instance_instance/instance_instance.dart';
 
 class Controller {
   num value = 0;

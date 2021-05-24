@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instance/src/inject.dart';
-import 'package:instance/src/instance.dart';
+import 'package:instance_instance/instance_instance.dart';
 
 abstract class Module extends StatelessWidget {
   final Instance _instance = Instance();
